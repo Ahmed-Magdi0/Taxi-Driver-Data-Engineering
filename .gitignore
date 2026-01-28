@@ -1,0 +1,3 @@
+Dbt_Stage/Dbt/dbt-env/
+Airflow_Stage/logs/
+Airflow_Stage/dbt-env/
